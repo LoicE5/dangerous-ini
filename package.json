@@ -2,10 +2,10 @@
   "author": "GitHub Inc.",
   "name": "@loice5/dangerous-ini",
   "description": "An ini encoder/decoder for node",
-  "version": "4.1.2",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/npm/ini.git"
+    "url": "https://github.com/LoicE5/dangerous-ini.git"
   },
   "main": "lib/ini.js",
   "scripts": {
